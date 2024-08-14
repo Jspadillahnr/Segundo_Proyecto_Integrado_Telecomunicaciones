@@ -1,11 +1,13 @@
-#**1.) ANÁLISIS DE LA EVOLUCIÓN DEL INTERNET EN L REPÚBLICA DE ARGENTINA**
+**1.) ANÁLISIS DE LA EVOLUCIÓN DEL INTERNET EN L REPÚBLICA DE ARGENTINA**
  
-##**1.1) Descripción del Proyecto.**
+**1.1) Descripción del Proyecto.**
 Este proyecto tiene como finalidad describir la evolución y estado actual del servicio de internet en la república de Argentina, identificar tendencias y realizar una comparación con el resto de las telecomunicaciones. 
 
-##**1.2) Requisitos.**
+**1.2) Requisitos.**
 Python versión: 3.7 o superior
+
 MySQL version: 8.0.36
+
 mysql-connector-python versión: 9.0.0
 pandas versión: 2.1.4
 numpy versión: 1.26.3
