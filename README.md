@@ -67,6 +67,8 @@ Se emplean librerías de visualización para crear gráficos que permiten identi
 
 *1.5.1) Gráfico de Tecnologías Por Años.*
 
+![Distribución de tecnologías por año](imagenes/Distribución de tecnologías por año.png)
+
 Lo primero que podemos notar en este gráfico es como han aumentado las personas con acceso a internet, a través de diferentes tecnologías, en al menos un 90% en los últimos diez años en la Argentina. Teniendo en cuenta que en estos años el porcentaje de crecimiento poblacional en este país ha sido de alrededor del 1%, podemos concluir que se ha hecho un esfuerzo enorme por aumentar el acceso de la población a internet; sin embargo, al compararlo con la población total de Argentina, el 75% de la población no tiene acceso a internet, por lo que aún hay un gran camino por recorrer.
 
 Al revisar la suma de usuarios para todas las provincias a lo largo de los años, podemos notar que en el 2014 predominaban dos tecnologías por sobre el resto, el ADSL y el cablemódem, siendo el ADSL la tecnología con mayor porcentaje en el 2014; por otro lado, tecnologías como Wireless y Fibra Óptica para ese año tenían un mínimo porcentaje del mercado. Con el paso del tiempo, se puede ver como el cablemódem empieza a ganarle territorio al ADSL, hasta tal punto que pareciera que todos los usuarios que abandonaban la tecnología ADSL se empezaban a pasar al cablemódem, logrando este, alrededor del 2019, superar a la tecnología ADSL en termino de usuarios. Para entender esto debemos entrar un poco en la historia del internet. 
