@@ -81,6 +81,8 @@ Otro hito importante que podemos ver en el gráfico es la evolución de la fibra
 
 *1.5.2) Gráfico de gradientes.*
 
+![Gradiente de Cambio para Tecnologías y Acceso Cada 100 Hogares](https://github.com/user-attachments/assets/3b2bb582-89e4-4444-bff6-07e286a16a54)
+
 Para las tecnologías este gráfico está construido de la siguiente manera:
 
 〖Gradiente tecnología〗_i=(〖usuarios año nuevo〗_i- 〖usuarios año anterior〗_i)/(∑_i^n▒( 〖usuarios año nuevo〗_i- 〖usuarios año anterior〗_i))
