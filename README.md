@@ -96,6 +96,8 @@ Ahora que ya hablamos de los nuevos usuarios y traslados entre tecnologías, pod
 
 *1.5.3) Gráfico Tecnologías por Provincias.*
 
+![Distribución de tecnologías por provincia](https://github.com/user-attachments/assets/4c825e20-9daf-46e3-a756-e357c2e7d717)
+
 En nuestro gráfico de tecnologías, estamos viendo un comportamiento promedio de todas las provincias, pero, teniendo en cuenta que la provincia de Buenos Aires ocupa casi el 50% de la población de Argentina, esta gráfica puede ser una buena aproximación para esa provincia, pero, y el resto ¿sigue este comportamiento? 
 Provincias como Chaco, Córdoba, Corrientes, Misiones, Salta, Santiago del Estero, Santa fe, Entre Ríos, La Rioja y Jujuy tienen un comportamiento similar con la provincia de Buenos Aires en cuanto a la evolución de las tecnologías a lo largo del tiempo, con algunas variaciones en los tiempos donde suceden los hitos y la participación de la tecnología Wireless y Otras. 
 La Capital federal y Tierra del Fuego tiene una configuración peculiar poque si bien se nota el descenso de del ADSL, en ninguna de los dos existe un surgimiento de la fibra óptica. En el caso de Tierra de Fuego esto puede tener sentido, ya que es la provincia con menos habitantes de Argentina, y puede que los tendidas de líneas de fibra óptica aún no sean una realidad allí, pero en el caso de la capital resulta un poco extraño que no haya pocos servicios de fibra óptica disponible. 
