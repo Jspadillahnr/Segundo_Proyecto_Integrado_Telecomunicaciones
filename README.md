@@ -32,7 +32,7 @@ datasets:
  
 	2. ‘datos_limpios’ es el dataset ‘Internet’ después de las transformaciones. 
  
-	3. ‘df_ingresos_accesos_100hab’ son los datasets de ‘Telefonia_movil’, ‘Television’, ‘telefonia_fija’ después de haber escogido la información de interés y haber realizado las 	transformaciones.
+	3. ‘df_ingresos_accesos_100hab’ son los datasets de ‘Telefonia_movil’, ‘Television’, ‘telefonia_fija’ después de haber escogido la información de interés y haber realizado las transformaciones.	
  
 	4. ‘df_gradienteinternet’ es un dataset calculado a partir del dataset ‘Internet’ para conocer el grado de cambio, en el tiempo, de algunas variables de interés. 
  
@@ -60,6 +60,7 @@ La fuente de los datos es ENACOM el cual es el Ente Nacional de Comunicaciones e
 **1.6) Metodología.**
 
 A través del motor MySQL y mysql-connector-python se realiza la carga y transformación de los datos. Para la carga de datos se utiliza querys MySQL más Python para simplicar este proceso. Dentro de las transformaciones que podemos observar en el proyecto encontramos: transformación de las columnas a sus types correctos, identificación y tratamientos de nulos (‘null’y ‘nan’), identificación y tratamiento de outliers, identificación y eliminación de duplicados.  
+
 Se emplean librerías de visualización para crear gráficos que permiten identificar patrones en los datos. Luego, esta información se transfiere a Power BI para presentar los resultados de manera más persuasiva y accesible.
 
 **1.5) Análisis.**
