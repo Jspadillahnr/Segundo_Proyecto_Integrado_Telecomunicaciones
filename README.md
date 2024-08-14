@@ -135,6 +135,8 @@ El caso San Luis, en el cual la tecnología Wireless manda la parada, debemos te
 
 1.5.6.1) Accesos por cada 100 habitantes.
 
+![Acceso por cada 100 hab diferentes telecomunicaciones](https://github.com/user-attachments/assets/15415978-2446-4324-bc5b-d68d89a99f97)
+
 Lo que podemos ver a primera vista es la abrupta caída del acceso de la telefonía móvil, que cae de un 44% a un 21%, teniendo un mínimo en el 2020 de 16%; la telefonía fija también ha sufrido un descenso del 23% al 16%. Por otra parte, tanto el internet como la TV por subscripción, o cable, han tenido un aumento, de 10% a 20% y de 14% a 17%, respectivamente. En el caso de la TV satelital, ha tenido una caída del 6% al 4%.
 
 Para entender un poco la caída tan abrupta de la telefonía móvil y la caída, menos áspera de la telefonía fija, debemos revisar un poco el contexto económico del país. Desde el 2014, la media de la inflación ha sido del 70%, una situación difícil que afecta significativamente el poder adquisitivo de los ciudadanos. En un entorno marcado por una economía difícil, además teniendo en cuenta que ahora existen aplicaciones VoIP que eliminan las necesidades de llamadas con una línea normal, es muy posible que los usuarios hayan decidido priorizar el internet sobre los servicios de telefonía.
@@ -142,6 +144,8 @@ Para entender un poco la caída tan abrupta de la telefonía móvil y la caída,
 En el caso de la televisión por cable, se considera que su aumento está totalmente ligada a los aumentos de accesos en el internet. Debemos recordar que el cablemódem, una de las tecnologías más importantes para prestar el servicio de internet, utiliza las líneas de la televisión por cable para hacer la transmisión de datos. Debido a que las compañías que proveen televisión por cable vendes paquetes completos, es muy probable que una parte de la población que haya buscado servicio de internet a través de esta tecnología, por defecto, haya también incluido un paquete de televisión por cable.
 
 1.5.6.2) Ingresos.
+
+![Ingresos para diferentes telecomunicaciones](https://github.com/user-attachments/assets/ccfad5c4-05e3-4f34-8ea3-e73bd7616534)
 
 La tendencia que siguen los ingresos es proporcional a la cantidad de accesos de la tecnología, a excepción de la telefonía móvil; entre más accesos, más ingresos.
 Cómo se había mencionado antes, a pesar de ser contraintuitivo que, en el caso de la telefonía móvil, se disminuyan los accesos e igual haya un aumento en los ingresos, esto se puede deber al incremento en el uso de planes de datos para internet, nivelando un poco la pérdida de usuarios. 
