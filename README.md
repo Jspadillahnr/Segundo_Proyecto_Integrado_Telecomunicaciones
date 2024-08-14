@@ -67,7 +67,7 @@ Se emplean librerías de visualización para crear gráficos que permiten identi
 
 *1.5.1) Gráfico de Tecnologías Por Años.*
 
-![Distribución de tecnologías por año](imagenes/Distribución de tecnologías por año.png)
+![Distribución de tecnologías por año](https://github.com/user-attachments/assets/beee3f36-989d-4cd5-b2e5-d0814c1cfdea)
 
 Lo primero que podemos notar en este gráfico es como han aumentado las personas con acceso a internet, a través de diferentes tecnologías, en al menos un 90% en los últimos diez años en la Argentina. Teniendo en cuenta que en estos años el porcentaje de crecimiento poblacional en este país ha sido de alrededor del 1%, podemos concluir que se ha hecho un esfuerzo enorme por aumentar el acceso de la población a internet; sin embargo, al compararlo con la población total de Argentina, el 75% de la población no tiene acceso a internet, por lo que aún hay un gran camino por recorrer.
 
