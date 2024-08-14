@@ -116,6 +116,9 @@ En el año 2014, prácticamente todas las velocidades de internet se encontraban
 Indudablemente, como lo vemos en la gráfica de velocidad media en el territorio, esta ha aumentado un increíble 1300%, lo que muestra una evolución en las tecnologías e infraestructura de estas en el país. Podemos ver que, en general, la velocidad promedio tiene un incremento estable, pero en el 2022 tiene un crecimiento muy grande que justo está ubicado en fechas similares en lo que empieza a hacer el descenso del cablemódem con respecto a la fibra óptica y esto tiene sentido ya que la fibra óptica es superior cuando se trata de proveer altas velocidades de internet. Es más eficiente, tiene una mayor capacidad de transmisión, mantiene mejor la calidad de la señal sobre largas distancias, y es más resistente a las interferencias.  
 
 *1.5.5) Gráfico Velocidades por Provincia.*
+
+![Distribucion de velocidades de internet por provincia](https://github.com/user-attachments/assets/0543bb30-b417-45a9-a11a-03ee0520069a)
+
 La distribución de los grupos que vimos en las tecnologías por provincias es similar al que podemos encontrar en las velocidades por provincias. 
 A diferencia de nuestro análisis respecto a las tecnologías de las provincias, en cuanto a velocidad podemos formar un grupo más grande y generalizado. Todas las provincias, a excepción de la Capital Federal y San Luis, tienen comportamiento similar con la provincia de Buenos Aires, con variaciones en los tiempos donde suceden los hitos y la participación de las diferentes velocidades. 
 
